@@ -1,5 +1,41 @@
 # careerfoundry_python
 
+**Languages & Tools:** Python, Jupyter Notebook, Anaconda, Excel
+
+**Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+
+**Data Operations & Techniques:**
+
+- Data Import and Export (e.g., CSV, Pickle files)
+  
+- Merging and Joining Dataframes
+
+- Creating New Variables & Flags
+
+- Handling Missing Values and Duplicates
+
+- Data Type Conversion & Renaming Columns
+
+- Using Data Dictionaries for Interpretation
+
+- Grouping & Aggregation with groupby()
+
+- Conditional Logic (If-Statements, Loops)
+
+- Data Visualization: Histograms, Bar Charts, Line Charts, Scatterplots
+
+- Data Analysis Methodologies & Concepts
+
+- Descriptive Exploratory Analysis
+
+- Data Wrangling and Cleaning
+
+- Data Consistency Checks
+
+- Customer Profiling and Analysis
+
+- Reporting and Presentation
+
 **Case Study:**
 Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. Your task is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
